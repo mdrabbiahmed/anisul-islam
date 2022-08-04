@@ -1,0 +1,11 @@
+// var text1 = 'Bangladesh';
+// // var text2 = 'is a beautiful country';
+// // text = text.length;
+// // console.log('number of length: '+text);
+// // text = text.charAt(2);
+// // text = text.toUpperCase();
+// // text = text.toLowerCase();
+// // text = text.toLocaleLowerCase();
+// // text = text1.concat(text2);
+// text = text1.slice(0, 3);
+// console.log(text);
